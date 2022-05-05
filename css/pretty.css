@@ -8,7 +8,7 @@ body, h1, h2, h3, h4 {
 }
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Spectral';
 	color: #212121;
 	font-weight: lighter;
 }
@@ -56,7 +56,7 @@ span.h4 {
 }
 
 nav {
-	font-family: Courier;
+	font-family: 'Spectral';
 	font-size: 110%;
 	position: fixed;
  	top: 0;
