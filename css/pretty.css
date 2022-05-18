@@ -119,7 +119,6 @@ a.icons:hover {
 #header {
 	background: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/birb.jpg");
 	background-size: cover;
-	background-position: left;
 }
 
 #header h1 {
