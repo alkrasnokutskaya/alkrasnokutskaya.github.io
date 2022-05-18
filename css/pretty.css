@@ -140,7 +140,8 @@ div {
 
 
 #subheader {
-	border-bottom: 1px solid #dedcdc;
+	border-image:url("http://lorempixel.com/g/400/100/?example.jpg");
+	border-width: 0 0 3px 0;
 	width: 100%;
 	margin-bottom: 5px;
 }
