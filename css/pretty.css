@@ -67,11 +67,11 @@ nav {
 
 a {
 	font-size: 100%;
-	color: #3b441d;
+	color: #3b1d14;
 }
 
 a:hover {
-  color: #7b6752;
+  color: #734e4c;
   text-decoration: none;
 }
 
@@ -113,13 +113,13 @@ div.email {
 }
 
 .icons {
-	color: #3b441d;
+	color: #3b1d14;
 	text-align: center;
 	text-decoration: none;
 }
 
 a.icons:hover {
-  color: #7b6752;
+  color: #734e4c;
 }
 
 #header {
