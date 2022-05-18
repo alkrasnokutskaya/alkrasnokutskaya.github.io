@@ -3,7 +3,7 @@
 }  */
 import "@fontsource/spectral";
 
-body, h1, h2, h3, h4 {
+body, h1 {
 	margin: 0;
 	padding: 0;
 }
@@ -17,37 +17,6 @@ h1 {
 	color: #302121;
 	font-size: 400%;
 	text-align: center;
-}
-
-h2 {
-	color: white;
-	font-size: 200%;
-	text-align: center;
-	font-weight: lighter;
-	margin-top: 1.5%;
-	margin-bottom: 2%;
-}
-
-h3 {
-	font-size: 170%;
-	text-align: left;
-	color: white;
-	font-weight: lighter;
-	margin-top: 2%;
-	margin-bottom: 2%;
-}
-
-
-h4 {
-	font-size: 115%;
-	text-align: left;
-	color: #302121;
-	margin-top: 3%;
-	margin-bottom: 0.5%;
-}
-
-span.h4 {
-	font-weight: lighter;
 }
 
 nav {
