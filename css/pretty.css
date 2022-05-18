@@ -146,6 +146,16 @@ div {
 	margin-bottom: 5px;
 }
 
+#rd {
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    top: 300px;
+    background: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/border.jpg") center repeat-x;
+
+    background-size: auto 100%;
+}
+
 .cols {
 	display: table;
 	margin-top: 20px;
