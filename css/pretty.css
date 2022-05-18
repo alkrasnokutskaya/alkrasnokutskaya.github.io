@@ -47,7 +47,7 @@ h3 {
 h4 {
 	font-size: 115%;
 	text-align: left;
-	color: #212121;
+	color: #302121;
 	margin-top: 3%;
 	margin-bottom: 0.5%;
 }
@@ -62,7 +62,7 @@ nav {
 	position: fixed;
  	top: 0;
   	width: 100%;
-  	background-color: #212121;
+  	background-color: #302121;
 }
 
 a {
