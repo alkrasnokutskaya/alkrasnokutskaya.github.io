@@ -11,16 +11,12 @@ body, h1, h2, h3, h4 {
 body {
 	font-family: 'Spectral';
 	color: #302121;
-	font-weight: lighter;
 }
 
 h1 {
 	color: #302121;
 	font-size: 400%;
-	font-weight:lighter;
 	text-align: center;
-	/* upper cases */
-	/* font-variant: small-caps; */
 }
 
 h2 {
