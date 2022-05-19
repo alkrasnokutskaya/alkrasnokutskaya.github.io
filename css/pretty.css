@@ -58,7 +58,7 @@ nav {
 	position: fixed;
  	top: 0;
   	width: 100%;
-  	background-color: #302121;
+  	/* background-color: #302121; */
 	background-image: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/funnyowl.png") repeat-x;
 	background-size: contain;
 }
