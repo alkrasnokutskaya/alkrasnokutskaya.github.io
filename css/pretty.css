@@ -193,8 +193,17 @@ p {
 	vertical-align: top;
 }
 
+#rd1 {
+    position: absolute;
+    height: 50px;
+    width: 68%;
+    top: 300px;
+    background: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/owlbrach.jpg") left repeat-x;
+
+    background-size: auto 69%;
+}
+
 footer {
-	border-top: 1px solid #dedcdc;
 	font-size: 80%;
 	clear: both;
 	margin-bottom: 2%;
