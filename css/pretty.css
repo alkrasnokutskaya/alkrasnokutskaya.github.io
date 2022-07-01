@@ -195,11 +195,11 @@ p {
 
 #rd1 {
     height: 50px;
-    width: 68%;
+    width: 100%;
     top: 300px;
     background: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/owlbrach.jpg") left repeat-x;
 
-    background-size: auto 100%;
+    background-size: auto 69%;
 }
 
 footer {
