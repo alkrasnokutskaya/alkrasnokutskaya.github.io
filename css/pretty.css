@@ -4,6 +4,7 @@
 import "@fontsource/spectral";
 
 body, h1, h2, h3, h4 {
+	background-color: #efe6d0;
 	margin: 0;
 	padding: 0;
 }
