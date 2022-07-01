@@ -55,10 +55,11 @@ span.h4 {
 }
 
 nav {
+	top: 0
 	font-family: 'Spectral';
 	font-size: 110%;
   	background-color: #302121;
-	width: 69%;
+	width: 100%;
 	overflow: auto;
 }
 
