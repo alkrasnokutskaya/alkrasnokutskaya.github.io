@@ -57,9 +57,7 @@ span.h4 {
 nav {
 	font-family: 'Spectral';
 	font-size: 110%;
-	position: fixed;
- 	top: 0;
-  	width: 100%;
+	position: relative;
   	background-color: #302121;
 }
 
