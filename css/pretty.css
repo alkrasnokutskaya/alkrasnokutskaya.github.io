@@ -212,7 +212,7 @@ footer {
 	border-width: 68%;
 	border-image: url("https://raw.githubusercontent.com/alkrasnokutskaya/alkrasnokutskaya.github.io/main/image/owlbrach.jpg");
 	border-image-repeat: repeat;
-	border-image-slice: 1;
+	border-image-slice: 100;
 	font-size: 80%;
 	clear: both;
 	margin-bottom: 2%;
